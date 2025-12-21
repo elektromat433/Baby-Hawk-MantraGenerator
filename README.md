@@ -29,7 +29,7 @@ A **temple of creative connection** where spiritual wisdom meets modern technolo
 
 ## 🌸 **Where to Meditate With Me**  
 
-🔗 **[Baby Hawk Temple](https://sparrow-hawk-code-art-generator.vercel.app/)**  
+🔗 **[Baby Hawk Temple](https://baby-hawk-mantra-generator.vercel.app/)**  
 
 ![Sacred Interface](images/demo.png) 
 
