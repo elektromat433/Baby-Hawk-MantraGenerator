@@ -3,7 +3,7 @@
 // ======================
 const config = {
   apiUrl: '/api/groq',
-  model: 'llama3-70b-8192',
+  model: 'llama-3.3-70b-versatile',
   babyhawkPic: "/images/artifact.jpg",
   papaHawkUrl: "#"
 };
